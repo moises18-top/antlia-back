@@ -1,0 +1,13 @@
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\AntliaBackendApplication.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\model\dto\ProdutoResponseDTO.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\service\MovimentosManuaisService.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\controller\MovimentosManuaisController.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\model\dto\mapper\ProdutoResponseMapperDTO.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\model\vo\ProdutoVO.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\models\Produto.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\service\impl\MovimentosManuaisServiceImpl.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\models\ProdutoCosif.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\model\dto\ProdutoRequestDTO.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\model\dto\mapper\ProdutoRequestMapperDTO.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\repository\ProdutoRepository.java
+C:\estudos-java\antlia-backend\src\main\java\br\com\antlia\models\MovimentoManual.java

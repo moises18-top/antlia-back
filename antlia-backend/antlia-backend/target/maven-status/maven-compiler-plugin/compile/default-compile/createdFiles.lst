@@ -1,0 +1,13 @@
+br\com\antlia\models\MovimentoManual.class
+br\com\antlia\service\impl\MovimentosManuaisServiceImpl.class
+br\com\antlia\model\vo\ProdutoVO.class
+br\com\antlia\model\dto\ProdutoRequestDTO.class
+br\com\antlia\model\dto\mapper\ProdutoRequestMapperDTO.class
+br\com\antlia\service\MovimentosManuaisService.class
+br\com\antlia\models\Produto.class
+br\com\antlia\model\dto\mapper\ProdutoResponseMapperDTO.class
+br\com\antlia\models\ProdutoCosif.class
+br\com\antlia\model\dto\ProdutoResponseDTO.class
+br\com\antlia\controller\MovimentosManuaisController.class
+br\com\antlia\AntliaBackendApplication.class
+br\com\antlia\repository\ProdutoRepository.class
